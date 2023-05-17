@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap');
+
+body{
+    max-width: 1080px;
+    max-height: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20px;
+}
+
+h2, h3, h4, h6, button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    font-weight: lighter;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.p2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 0 20px 0 20px;
+    font-weight: normal;
+}
+
+.emissionInfo{
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+
+.btnOverlay{
+    border: 1px solid #000000;
+    border-radius: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    padding: 15px 30px;
+}
+
+.emptySpace{
+    margin-top: 44px;
+}
+
+.emptySpace2{
+    margin-top: 27px;
+}
+
+.emptySpace3{
+    margin-top: 35px;
+}
+
+.rowBox{
+    position: relative;
+    background-color: #FFFFFF;
+    margin: 10px 0 10px 0;
+    max-width: 340px;
+}
+
+.rowTitleBox{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.rowDescBox{
+    text-align: center;
+}
+
+.rowCarImg{
+    width: 100%;
+}
+
+.mainHeader{
+    margin: 20px 0 20px 0;
+}
+
+.navbarText{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.lineHeight{
+    line-height: 60%;
+}
+
+.btnConfig{
+    width: 100%;
+}
+
+.container{
+    max-width: 1080px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
